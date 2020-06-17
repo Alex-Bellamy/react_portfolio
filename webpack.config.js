@@ -27,8 +27,8 @@ module.exports = {
   },
   devServer: {
     contentBase: path.join(__dirname, "/"),
-    port: 3000,
-    publicPath: "http://localhost:3000/dist/",
+    port: 3003,
+    publicPath: "http://localhost:3003/dist/",
     watchContentBase: true,
     historyApiFallback: true
   },

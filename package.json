@@ -25,5 +25,5 @@
   "scripts": {
     "start": "webpack-dev-server --inline --mode development --open",
     "cy:open": "npm start & cypress open"
-  }
+}
 }
