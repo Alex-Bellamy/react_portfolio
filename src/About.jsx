@@ -1,14 +1,23 @@
 import React from "react";
+import { UndrawTeamSpirit } from "react-undraw-illustrations";
 
 const About = () => {
   return (
     <div className="ui main container">
-      <h1 id="about-header" className="ui header">About Me</h1>
-      <p>
-        ..........................................
-      </p>
+      <div class="ui stackable two column grid">
+      <div class="column">
+        <UndrawTeamSpirit />
+      </div>
+      <div class="column">
+        <h1 className="ui header">About Me</h1>
+        <p>
+          ............................
+        </p>
+      </div>
     </div>
-  );
+  </div>
+);
+
 };
 
 export default About;
