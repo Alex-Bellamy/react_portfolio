@@ -40,7 +40,7 @@ class Projects extends Component {
           <div className="column">
             <h1 id="projects-header" className="ui header">My Projects</h1>
             <p>
-              !!!!!!!!!!!!!!!!!!!!!!!!!!!
+              Whilst at Craft Academy I developed a range of skills through hands-on experience and creating web applications. Some examples:
             </p>
           </div>
         </div>
