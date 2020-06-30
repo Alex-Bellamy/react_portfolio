@@ -21,6 +21,14 @@ body {
   left: 40%;
 }
 
+#card {
+background-color: #4f2991;
+}
+
+#cardcontent {
+  color: white;
+}
+
 #profilepic {
   width: 50%;
   height: auto;
