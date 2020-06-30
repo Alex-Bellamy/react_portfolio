@@ -14,6 +14,9 @@ const About = () => {
         <p>I was a sergeant in the Air Training Corps (“ATC” - youth UK Royal Air Force). Whilst at the ATC, I completed a gruelling 100-mile (160km) march in the Netherlands with the ATC to receive the Internationale Vierdaagse Afstandsmarsen royal medal and was awarded a private pilot’s scholarship as a result of my confident solo flying.</p>
         <p>I regard myself as extremely motivated, setting high expectations for myself and I am prepared to put in the hard work in order to succeed.</p>
       </div>
+      <div class="picture">
+      <img id="profilepic" src="src/images/profile.jpeg" alt="Alex Bellamy"/>
+      </div>
     </div>
   </div>
 );
