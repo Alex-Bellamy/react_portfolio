@@ -1,20 +1,20 @@
 [
-    {
-      "id": 1,
-      "name": "Bmi calculator",
-      "image": "https://image.freepik.com/free-photo/asian-woman-weight-loss-diet-concept_53876-14974.jpg",
-      "description": "For the fitness enthusiasts out there, this is first of two BMI calculators"
-    },
-    {
-      "id": 2,
-      "name": "Fizz buzz challenge",
-      "image": "https://cdn.pixabay.com/photo/2014/09/07/22/25/champagne-438448_960_720.jpg",
-      "description": "A children's game and classic challenge harnessing my new Ruby skills"
-    },
-    {
-      "id": 3,
-      "name": "My first website",
-      "image": "https://cdn.pixabay.com/photo/2016/10/10/12/42/childrens-shoe-1728294_960_720.jpg",
-      "description": "The first website to make it out into the world when I started at Craft Academy"
-    }
-  ]
+  {
+    "id": 1,
+    "name": "My first website",
+    "image": "https://cdn.pixabay.com/photo/2016/10/10/12/42/childrens-shoe-1728294_960_720.jpg",
+    "description": "The first website to make it out into the world when I started at Craft Academy"
+  },
+  {
+    "id": 2,
+    "name": "Fizz buzz challenge",
+    "image": "https://cdn.pixabay.com/photo/2014/09/07/22/25/champagne-438448_960_720.jpg",
+    "description": "A children's game and classic challenge harnessing my new Ruby skills"
+  },
+  {
+    "id": 3,
+    "name": "Bmi calculator",
+    "image": "https://image.freepik.com/free-photo/asian-woman-weight-loss-diet-concept_53876-14974.jpg",
+    "description": "For the fitness enthusiasts out there, this is first of two BMI calculators"
+  }
+]
