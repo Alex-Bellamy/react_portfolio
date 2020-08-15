@@ -40,6 +40,10 @@ footer {
   color: #ecf2f7;
   padding-top: 15px;
   padding-bottom: 15px;
+  position:absolute;
+  left:0;
+  bottom:0;
+  right:0;
 }
 
   #footerButtons {
@@ -49,5 +53,5 @@ footer {
   }
 
   .main.container {
-    margin-top: 4em;
+    padding-bottom:60px;
   }
